@@ -23,7 +23,7 @@ Contains the main boilerplate of the Discus 2015 ASP.NET MVC CMS's front-end fil
 
 -v1.2.1 (2016-09-09)
 * Update: FontAwesome v4.6.3
-* Changed: "karayel.min.css" yerine "karayel.css" çağırıldı
+* Changed: Used "karayel.css" instead of "karayel.min.css"
 * Removed: BXSlider
 * Addendum: Hover.css
 
